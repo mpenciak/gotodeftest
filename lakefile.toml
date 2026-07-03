@@ -1,0 +1,10 @@
+name = "gotodeftest"
+version = "0.1.0"
+defaultTargets = ["gotodeftest"]
+
+[[lean_lib]]
+name = "Gotodeftest"
+
+[[lean_exe]]
+name = "gotodeftest"
+root = "Main"
